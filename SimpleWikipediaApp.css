@@ -1,0 +1,47 @@
+header{
+    color:white;
+    background-color: black;
+    padding:10px
+
+    
+}
+Body{
+    max-width: 600px;
+    width:100%;
+    margin:auto
+}
+*{
+    
+    margin:0;
+    padding:0;
+}
+nav{
+    padding:0px;
+    margin:10px;
+
+}
+nav span {
+    padding:5px ;
+    margin:0px;
+}
+nav span:first-child{
+    border-bottom: 2px solid black;
+}
+
+
+
+body{
+    background-color: rgb(182, 180, 180);
+}
+.image{
+            float:right;
+            margin:15px;
+            padding:15px;
+    }
+.para{
+    padding:20px;
+}
+.para p{
+  
+    margin-bottom: 20px;
+}
